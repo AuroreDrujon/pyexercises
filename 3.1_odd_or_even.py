@@ -24,12 +24,12 @@ DELIVERABLE
     This file, with your comments and your code.
 """
 
-# 1. In: un nombre entier N tapé par l'utilisateur
-# 2. Process: pour chaque nombre de 1 à N, le programme vérifie s'il est pair ou impair
-# 3. Out: N lignes, chacune avec le nombre et "pair" ou "impair" 
+# 1. In: un nombre entier N tapé par l'utilisateur - OK
+# 2. Process: pour chaque nombre de 1 à N, le programme vérifie s'il est pair ou impair - OK
+# 3. Out: N lignes, chacune avec le nombre et "pair" ou "impair" - Ok
 # 4. What happens on 0, on a negative number, on a very large number:
-#    0 ou négatif -> "Erreur : veuillez taper un nombre >= 1"
-#    plus de 100 -> "Erreur : veuillez taper un nombre <= 100", car au-delà c'est trop long à lire
+#    0 ou négatif -> "Erreur ! veuillez taper un nombre >= 1" - OK
+#    plus de 100 -> "Erreur ! veuillez taper un nombre <= 100", car au-delà c'est trop long à lire - OK
 
 
 
