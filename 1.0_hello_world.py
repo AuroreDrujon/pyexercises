@@ -28,11 +28,13 @@ DELIVERABLE
 # 4. My message, and why: J'ai choisi « N'abandonne jamais ! » parce que c'est motivant.
 
 
+
 # Your code below
 
 message = "Never give up!"
+n = 5
 
-# range(start, stop) excludes the stop value
-for number in range(1, 6):
+# range(start, stop) excludes the stop value, so we add 1
+for number in range(1, n + 1):
     print(number, message)
-
+    
